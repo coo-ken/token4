@@ -4,7 +4,7 @@ Apa kabar mu semoga baik baik saja
 
 Bahan bahan nya nih
 
-pembaruan pkg && peningkatan pkg && pkg instal python && pkg instal python2 && pkg instal bash && pkg instal nano && pkg instal git && pkg instal mekanisasi && permintaan instal pkg && permintaan instal pkg bs4
+pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install php && pkg install python git && pkg install bash && pkg install git && pip2 install mechanize && pip2 install requests && pip2 install requests bs4
 
 =========================================
 
